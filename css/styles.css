@@ -263,7 +263,7 @@ background-size: cover;
     fill: var(--main-text-color);
 }
 /* Стилі для розділу Чим ми займаємось */
-.first-container {
+.item-container {
     position: relative;
 }
 
@@ -523,12 +523,10 @@ margin-bottom: 20px;
     transform: translateY(0%);
 }
 .overlay-text {
-    font-weight: 400;
     font-size: 18px;
     line-height: 1.56;
     letter-spacing: 0.03em;
 
-    text-align: center;
     
     color: #FFFFFF; 
 }
